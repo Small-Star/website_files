@@ -1,0 +1,50 @@
+Overview
+
+The Double Targeted Ketogenic Diet (DTKD) is a variant of the Targeted Ketogenic Diet (TKD) that I created, which I have been using with decent results. The idea is to balance a few competing goals: 1) allow for both high-volume and high-intensity lifting, 2) promote muscle growth and recovery, and 3) maximize time/depth in ketosis. These goals often work at cross purposes, and so as you might imagine, a program that tries to balance them won’t do any single goal particularly well. However, on balance I have found the tradeoffs to be reasonable, and found the DTKD to be a useful tool to have in my toolbox.
+Sample Day
+
+    07:45 – 20g BCAAs
+    08:00 – 09:30 – Lift (fasted except for the BCAAs)
+    10:00 – Breakfast
+        1/3 of the day’s kCal budget
+        1/3 g/lb BW protein
+        A bit more carbs than needed to mostly replenish muscle glycogen (this should be > 2/3 glucose, but you can have a little bit of fructose if you want. Your liver glycogen is going to be pretty depleted after fasting.)
+    11:00 – 2 Tbsp MCT Oil (Note: These calories come out of the breakfast budget)
+    13:30 – 14:00 – LISS Cardio (Optional)
+    14:00 – Lunch
+        1/4 of the day’s kCal budget
+        30g protein
+        0g carbs
+        1 Tbsp MCT Oil
+    17:30 – 18:00 – LISS Cardio (Optional)
+    18:00 – Dinner
+        5/12 of the day’s kCal budget
+        1/3 g/lb BW protein
+        50g of carbs (all glucose)
+    19:00 – 2 Tbsp MCT Oil (Note: These calories come out of the dinner budget)
+    21:00 – Sleep
+
+Philosophy
+
+The most important part of this plan (and where the name comes from), is the double bolus of carbs. One is taken immediately following the workout–intended primarily to replenish muscle glycogen (promoting recovery, and making sure you can lift again) and secondarily to spike insulin (promoting muscle growth). The other is before bed–intended primarily to deepen sleep (promoting recovery) and secondarily to spike insulin (promoting muscle growth). The insulin spike certainly isn’t necessary for muscle growth, but it does help. The idea is that the extra ~100g of carbs allows you to recover better than the Standard Ketogenic Diet (SKD), but the timing of when they are ingested along with secondary factors (e.g. MCTs, LISS cardio) minimizes the disruption to your state of ketosis. Because the carb intake is reasonably low (although higher than most keto plans), it is still possible to make it into ketosis for one or two periods a day. Do note though, that because of the increased carb intake, it is helpful to be very fat-adapted. If you can’t slip back into ketosis easily, the DTKD is not going to work well for you.
+
+There are a couple of secondary features of interest. First, the feeding window is such that you get the benefits of intermittent fasting, which triggers some of the same mechanisms (especially autophagy, and the upregulation of the fatty acid metabolic pathway) that make ketosis so great. Second, the calories are portioned such that you should have enough food in the evening to keep you digesting through most of the night, which is helpful in turning on the PNS and promoting better sleep.
+
+The DTKD isn’t really intended to be run indefinitely, although if it works for you then go for it. The use case I had in mind was when you need more recovery than you are getting on a standard ketogenic diet, but don’t want to transition all the way back to eating tons of carbs (i.e. the Standard American Diet). The DTKD promotes recovery better than the SKD, but and still gives you the benefits of regularly being in ketosis–use it when you need that.
+Staying in Ketosis
+
+You almost certainly won’t be in ketosis continually, but you should ideally be in ketosis a good portion of the day. There are four parameters you can adjust if you are having difficulty staying in ketosis. Try tweaking the first on the list, and if that doesn’t do the trick, work your way down.
+
+    MCT Oil: This can go as high as your GI tolerance (and calorie limit) allows.
+    LISS Cardio: Low intensity cardio is wonderful for getting into ketosis. If you want to optimize, do this right before your lunch and dinner meals in order to keep the muscle growth windows as open as possible.
+    Protein Content (Breakfast and Dinner): Excess protein can get converted into glucose (although this is mostly demand driven, so if your body is doing this it should be beneficial for recovery). You can drop this some, but don’t go below 30g.
+    Carbs: The last thing you can do is to cut carbs, preferentially from the carbs at dinner. Unless you aren’t doing very strenuous workouts, the breakfast carbs should mostly be going to replenish glycogen stores, which you need to do.
+
+Modifications
+
+    Play with the carb intake to see what works for you. It’s a good idea to titrate the first carb bolus based on the type, duration, and intensity of your workout. Add more for high volume work, and a lot more for HIIT training.
+    The first meal (alternatively, only the carbs in the first meal) can be eaten before lifting. This might be especially useful for high-volume work, but it is really about personal preference. I prefer lifting fasted and in as deep a state of ketosis as possible, but YMMV.
+    If you are having GI trouble with MCTs (this never happens to me, but some people have an issue with it, apparently), it is OK to decrease them a bit. You can also try MCT Oil powder, which has a bit of fiber in it, and seems to give people less trouble.
+    BHB is fine to take pre-workout; I find I don’t usually need it, but it shouldn’t be a problem. Just be careful not to take too much of it during the day, as doing so can cause your blood glucose to rebound, which is exactly what we are trying not to do.
+    You can take all of the calories out of lunch (aside from the protein–keep that in there to trigger mTOR) and shift them to breakfast or dinner.
+    If you don’t particularly care about the benefits of IF, pull out 30g of protein from breakfast and dinner and make another meal–the literature on meal timing is all over the place, but it certainly wouldn’t hurt to spread out the protein intake.
